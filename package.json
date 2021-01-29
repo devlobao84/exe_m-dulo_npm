@@ -1,0 +1,19 @@
+{
+  "name": "dh-jonas-lobo",
+  "version": "1.0.1",
+  "description": "meu primeiro modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlobao84/exe_m-dulo_npm.git"
+  },
+  "author": "jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlobao84/exe_m-dulo_npm/issues"
+  },
+  "homepage": "https://github.com/devlobao84/exe_m-dulo_npm#readme"
+}
